@@ -1,9 +1,9 @@
 [submodule "snapcraft"]
 	path = snapcraft
-	url = git@github.com:snapcore/snapcraft.git
+	url = https://github.com/snapcore/snapcraft.git
 [submodule "dir01/craft-parts"]
 	path = dir01/craft-parts
 	url = https://github.com/canonical/craft-parts
 [submodule "dir02/submodule-test-2"]
 	path = dir02/submodule-test-2
-	url = git@github.com:mr-cal/submodule-test-2.git
+	url = https://github.com/mr-cal/submodule-test-2.git
